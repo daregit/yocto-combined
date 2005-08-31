@@ -1,0 +1,4 @@
+[submodule "src/poky"]
+    path = src/poky
+    url = git://git.yoctoproject.org/poky.git
+    branch = langdale
