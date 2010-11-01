@@ -2,3 +2,7 @@
     path = src/poky
     url = git://git.yoctoproject.org/poky.git
     branch = styhead
+[submodule "src/meta-openembedded"]
+    path = src/meta-openembedded
+    url = git://git.openembedded.org/meta-openembedded
+    branch = styhead
