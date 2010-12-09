@@ -2,6 +2,10 @@
     path = src/poky
     url = git://git.yoctoproject.org/poky.git
     branch = scarthgap
+[submodule "src/meta-intel"]
+    path = src/meta-intel
+    url = git://git.yoctoproject.org/meta-intel.git
+    branch = scarthgap
 [submodule "src/meta-openembedded"]
     path = src/meta-openembedded
     url = git://git.openembedded.org/meta-openembedded
