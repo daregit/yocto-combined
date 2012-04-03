@@ -6,6 +6,10 @@
     path = src/meta-intel
     url = git://git.yoctoproject.org/meta-intel.git
     branch = mickledore
+[submodule "src/meta-raspberrypi"]
+    path = src/meta-raspberrypi
+    url = git://git.yoctoproject.org/meta-raspberrypi.git
+    branch = mickledore
 [submodule "src/meta-openembedded"]
     path = src/meta-openembedded
     url = git://git.openembedded.org/meta-openembedded
