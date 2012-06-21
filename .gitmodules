@@ -10,6 +10,10 @@
     path = src/meta-raspberrypi
     url = git://git.yoctoproject.org/meta-raspberrypi.git
     branch = scarthgap
+[submodule "src/meta-virtualization"]
+    path = src/meta-virtualization
+    url = git://git.yoctoproject.org/meta-virtualization
+    branch = scarthgap
 [submodule "src/meta-openembedded"]
     path = src/meta-openembedded
     url = git://git.openembedded.org/meta-openembedded
