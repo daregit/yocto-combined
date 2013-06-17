@@ -14,6 +14,10 @@
     path = src/meta-virtualization
     url = git://git.yoctoproject.org/meta-virtualization
     branch = master
+[submodule "src/meta-security"]
+    path = src/meta-security
+    url = git://git.yoctoproject.org/meta-security.git
+    branch = master
 [submodule "src/meta-openembedded"]
     path = src/meta-openembedded
     url = git://git.openembedded.org/meta-openembedded
