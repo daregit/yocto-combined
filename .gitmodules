@@ -34,6 +34,10 @@
     path = src/meta-rockchip
     url = git://git.yoctoproject.org/meta-rockchip.git
     branch = scarthgap
+[submodule "src/meta-tensorflow"]
+    path = src/meta-tensorflow
+    url = git://git.yoctoproject.org/meta-tensorflow.git
+    branch = scarthgap
 [submodule "src/meta-openembedded"]
     path = src/meta-openembedded
     url = git://git.openembedded.org/meta-openembedded
