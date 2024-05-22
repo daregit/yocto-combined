@@ -12,6 +12,7 @@ PROFILE=$1
 PROFILEFILE=${SCRIPTDIR}/profiles/$(basename ${PROFILE} .conf).conf
 PROFILENAME=$(basename ${PROFILEFILE} .conf)
 CMD=""
+DISTRO="poky"
 
 . ${PROFILEFILE}
 
